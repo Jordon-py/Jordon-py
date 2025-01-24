@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Html, JavaScript, CSS and Python im currently a student Full-Stack Dev 
 - 💞️ I’m looking to collaborate on anything i find an interest in, productivity tools and AI, ML as of now.
 - 📫 How to reach me  ...
-- 😄 Pronouns: .eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeef..
 - ⚡ Fun fact: ...
 
 <!---
