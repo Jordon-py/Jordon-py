@@ -10,8 +10,8 @@ I’m a Full-Stack Developer with **400+ hours** of hands-on experience in React
 
 ---
 
-## 🚀 Key Wins
-- **CodeArk**: React/Next.js snippet manager with instant previews  
+## Key projects
+- **CodeArch**: React/Next.js snippet manager with instant previews  
 - **Django Forum**: Full-stack discussion platform supporting 100+ concurrent users  
 - **Jade’s Brow Beauty**: Responsive marketing site that boosted bookings by 30%
 
