@@ -17,7 +17,9 @@ I’m a Full-Stack Developer with **400+ hours** of hands-on experience in React
 
 ---
 
-🔗 [github.com/Jordon-py](https://github.com/Jordon-py)  
+🔗 www.linkedin.com/in/christopher-jordon-a369092b3
+
+
 
 <!---
 Jordon-py/Jordon-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
