@@ -1,7 +1,7 @@
 # Christopher Jordon  
 ## **Full-Stack Developer | Javascript, Python, HTML, CSS | Frontend: Vite+React.jsx & Backend: FastAPI, Express.js**
 ### *Open For Work*
-##### *Resume* ->- https://christophers-resume-5cbdb3284793.herokuapp.com/
+##### *Resume* ->- https://christophersportfolio.netlify.app/
 ## Key projects
 - **CodeArch**: React.jsx snippet/Function/Component manager with instant previews - (In Progress)
 - **Jade’s Brow Beauty**: Responsive website - (In Progress)
