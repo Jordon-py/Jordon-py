@@ -5,7 +5,7 @@
 ## Key projects
 - **CodeArch**: React.jsx snippet/Function/Component manager with instant previews - (In Progress)
 - **Jade’s Brow Beauty**: Responsive website - (In Progress)
-- **NFL-Predict = Predicts nfl scores using ML Light Gradient Boosted Machines**: https://nfl-ml-predictions.vercel.app/
+- **NFL-Predict = Predicts nfl scores using ML Light Gradient Boosted Machines**: new-nfl-predict.vercel.app
 - RL PPO Forex Algorithmic automated Trading Program: - (In Progress)
 
 
